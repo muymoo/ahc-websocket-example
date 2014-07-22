@@ -1,4 +1,4 @@
-This is your new Play application
-=================================
+To Run:
 
-This file will be packaged with your application, when using `activator dist`.
+1. Download & install Play (activator) 2.3.2 at: http://www.playframework.com/download
+2. In the root directory of this project execute `play run`.
